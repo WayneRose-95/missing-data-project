@@ -1,0 +1,10 @@
+pandas==2.1.4
+PyYAML==6.0.1
+SQLAlchemy==2.0.23
+ipykernel==6.28.0
+numpy==1.2.8
+psycopg2==2.9.9
+black==23.12.1
+pip==23.3.1
+missingno==0.5.2
+nbformat==5.9.2
