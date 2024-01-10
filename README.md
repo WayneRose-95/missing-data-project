@@ -8,7 +8,7 @@ the business would like to perform some Exploratory Data Analysis (EDA) to find 
 # Usage 
 - Clone the repository using this command below
 ```
-git clone https://github.com/WayneRose-95/missing-data-project
+git clone https://github.com/WayneRose-95/missing-data-project.git
 ```
 Please see the ![Wiki](https://github.com/WayneRose-95/missing-data-project/wiki) for an in-depth guide on installing further dependencies. 
 
