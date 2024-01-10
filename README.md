@@ -10,7 +10,7 @@ the business would like to perform some Exploratory Data Analysis (EDA) to find 
 ```
 git clone https://github.com/WayneRose-95/missing-data-project.git
 ```
-Please see the ![Wiki](https://github.com/WayneRose-95/missing-data-project/wiki) for an in-depth guide on installing further dependencies. 
+Please see the [Wiki](https://github.com/WayneRose-95/missing-data-project/wiki) for an in-depth guide on installing further dependencies. 
 
 # Project Requirements 
 
@@ -48,5 +48,5 @@ This will reduce the need of external technological components such as Power BI 
 
 ## The Visualisations Used 
 
-- A matrix showing the missing values present inside the data. This will be visualised using the ![missingno](https://github.com/ResidentMario/missingno) package
+- A matrix showing the missing values present inside the data. This will be visualised using the [missingno](https://github.com/ResidentMario/missingno) package
 
